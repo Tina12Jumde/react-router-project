@@ -1,6 +1,6 @@
 import React from 'react'
 
-import img1 from "../media/tree.jpg"
+import img1 from "../media/Blog.jpg"
 
 const Heros = () => {
   return (
